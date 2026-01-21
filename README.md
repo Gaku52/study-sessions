@@ -26,13 +26,16 @@
 
 ## 推奨ツール
 
+### スライド表示用
 **VS Code + Marp for VS Code 拡張機能**を使用すると、各Markdownファイルをスライドとして表示できます。
 
-### インストール方法
 1. VS Codeで拡張機能「Marp for VS Code」をインストール
 2. 各回の `slides/*.md` ファイルを開く
 3. 右上のプレビューアイコンをクリック
 4. PDF/PPTX出力も可能
+
+### Markdown管理・閲覧用
+**Obsidian**または**Notion**を使用すると、Markdownファイルを快適に管理・閲覧できます。（好みで選択）
 
 ## リポジトリ構造
 
